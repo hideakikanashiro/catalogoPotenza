@@ -1,1 +1,15 @@
 @import url(./header.css);
+@import url(./nav.css);
+
+* {
+   margin: 0px;
+   padding: 0px;
+   text-decoration: none;
+   border: 0px;
+   box-sizing: border-box;
+}
+
+body{
+   background: rgb(236, 236, 236);
+}
+

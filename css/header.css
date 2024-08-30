@@ -1,0 +1,15 @@
+.superinfo-bg {
+   background: rgb(36, 36, 36);
+}
+
+.superinfo {
+   max-width: 1600px;
+   font-size: 0.9em;
+   font-family: 'Poppins', arial, Helvetica;
+   color: white;
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-between;
+   margin: 0 auto;
+   padding: 10px;
+}

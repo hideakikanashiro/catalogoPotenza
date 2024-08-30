@@ -1,0 +1,30 @@
+.marca-container {
+   background: blue;
+
+}
+
+.opcoes-bg {
+   background-color: rgb(34, 90, 34);
+   color: white;
+   font-family: 'Poppins', Arial, Helvetica;
+}
+
+.nav-container {
+   max-width: 960px;
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: center;
+   margin: 0 auto;
+   gap: 30px;
+   padding: 16px 0;
+}
+
+.nav-container label {
+   font-size: 1.2em;
+   font-weight: bold;
+}
+
+.marca label {
+   font-size: 1.2em;
+   font-weight: bold;
+}
